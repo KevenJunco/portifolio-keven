@@ -11,6 +11,7 @@
     "email": "anubhav.srivastava00@gmail.com"
   },
   "dependencies": {
+    "@weknow/react-bubble-chart-d3": "^1.0.12",
     "gatsby": "^2.20.2",
     "gatsby-plugin-manifest": "^2.3.1",
     "gatsby-plugin-offline": "^3.1.0",
